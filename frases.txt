@@ -1,2 +1,4 @@
 "Não há certezas, apenas oportunidades." (V de Vingança)
 "O código compilou de primeira"
+"A especificação de software não tem importância"
+"Calma, tudo vai piorar"
