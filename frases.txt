@@ -2,3 +2,4 @@
 "O código compilou de primeira"
 "A especificação de software não tem importância"
 "Calma, tudo vai piorar"
+"A internet voltou"
